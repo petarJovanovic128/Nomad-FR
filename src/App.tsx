@@ -323,8 +323,10 @@ function App() {
           <div className="footer-links-block">
             <h3>{t.footerNavigationTitle}</h3>
             <ul className="footer-list">
-              {t.footerNavigation.map((item) => (
-                <li key={item}>{item}</li>
+              {t.toolbarLinks.map((item) => (
+                <li key={item.href}>
+                  <a href={item.href}>{item.label}</a>
+                </li>
               ))}
             </ul>
           </div>
@@ -347,6 +349,10 @@ function App() {
             </ul>
           </div>
         </footer>
+
+        <div className="footer-signature-strip">
+          <p className="footer-signature-text">{t.footerCopyright}</p>
+        </div>
       </main>
     </div>
   )

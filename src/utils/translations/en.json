@@ -219,5 +219,6 @@
   "footerInfoTitle": "INFORMATION",
   "footerNavigation": ["About", "Workspace", "Membership", "Gallery", "FAQ", "Contact"],
   "footerPackages": ["NOMAD Member", "NOMAD Day", "NOMAD Team", "NOMAD Business"],
-  "footerInfo": ["Working hours", "House rules", "Privacy policy", "Terms of use"]
+  "footerInfo": ["Working hours", "House rules", "Privacy policy", "Terms of use"],
+  "footerCopyright": "© 2026 NOMAD. All rights reserved."
 }

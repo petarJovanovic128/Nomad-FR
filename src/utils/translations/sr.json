@@ -210,5 +210,6 @@
   "footerInfoTitle": "INFORMACIJE",
   "footerNavigation": ["O nama", "Radni prostor", "Članstvo", "Galerija", "FAQ", "Kontakt"],
   "footerPackages": ["NOMAD Member", "NOMAD Day", "NOMAD Team", "NOMAD Business"],
-  "footerInfo": ["Radno vrijeme", "Pravila korištenja", "Politika privatnosti", "Uslovi korištenja"]
+  "footerInfo": ["Radno vrijeme", "Pravila korištenja", "Politika privatnosti", "Uslovi korištenja"],
+  "footerCopyright": "© 2026 NOMAD. sva prava zadržana."
 }
